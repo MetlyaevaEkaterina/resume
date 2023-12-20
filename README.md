@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 # Метляева Екатерина Андреевна ![Photo](https://i.ibb.co/zh34pHD/000-103-Photo-Room-1.png)
 ### Контактный телефон: 8 (965) 820-28-96
 --- 
